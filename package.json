@@ -1,0 +1,23 @@
+{
+  "name": "backend2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "ts-node ./src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erentho/backend1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erentho/backend1/issues"
+  },
+  "homepage": "https://github.com/erentho/backend1#readme",
+  "description": ""
+}
